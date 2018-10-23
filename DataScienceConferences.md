@@ -2,8 +2,7 @@
 
 | Conference | Description and Topics Covered | Location | Date |
 |:--- |:--- |:--- |:--- |
-| [Open Data Science Conference](https://www.odsc.com) | This conference covers topics such as: machine learning, neural networks, social networks, graph analysis, text analysis, natural language processing, data visualization, Big data tools and Hadoop-based frameworks. | London, UK | 19-20 Sep 2018 | 
-| [Open Data Science Conference](https://www.odsc.com)  | As above | San Francisco, USA | 31 Oct - 3 Nov 2018 | 
+| [Open Data Science Conference](https://www.odsc.com)  | This conference covers topics such as: machine learning, neural networks, social networks, graph analysus, text analysis, natural language processing, data visualization, Big data tools and Hadoop-based frameworks. | San Francisco, USA | 31 Oct - 3 Nov 2018 | 
 | [Open Data Science Conference](https://www.odsc.com)  | As above | Boston, USA | 30 Apr - 3 May 2019| 	
 | [Predictive Analytics World](http://www.predictiveanalyticsworld.com) | This conference is suitable for both experts as well as beginners. It includes topics such as customer relationship management, financial services, banking, insurance, e-commerce and government healthcare. | Las Vegas, USA | 16-20 Jun 2019 | 
 | [Strata Data Conference](http://conferences.oreilly.com/strata)| Strata Data Conference is widely attended by professionals and data scientists from the field of Big data analysis. Attendees benefit from the experience of these industry professionals and data scientists. | New York, USA | 11-13 Sep 2018 |
@@ -34,5 +33,6 @@
 | [2018 Dataworks Summit](https://dataworkssummit.com) | As above | Barcelona, Spain | 18-21 Mar 2019 |
 | [2018 Dataworks Summit](https://dataworkssummit.com) | As above | Washington DC, USA | 20-28 May 2019 |
 | [NIPS \| 2018](https://nips.cc/) | The 32nd Annual Conference on Neural Information Processing Systems (NIPS) is a multi-track machine learning and computational neuroscience conference that includes invited talks, demonstrations, symposia and oral and poster presentations of refereed papers. | Montreal, Canada | 3-8 Dec 2018 |
+| [Open Data Science Conference](https://www.odsc.com) | This conference covers topics such as: machine learning, neural networks, social networks, graph analysis, text analysis, natural language processing, data visualization, Big data tools and Hadoop-based frameworks. | London, UK | Sep 2019 | 
 
 Happy hunting!
